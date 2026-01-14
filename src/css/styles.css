@@ -227,6 +227,8 @@ a.btn {
     .about-info:first-child {
       order: 2;
     }
-   
+    .about-info:last-child {
+      order: 3;
+    }
   }
 }
